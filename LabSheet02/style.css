@@ -1,0 +1,31 @@
+label{
+    font-family:sans-serif;
+    font-size: large;
+    font-weight: bold;
+  }
+
+  .btn {
+    background-color: blue;
+    color: white;
+    font-size: larger;
+    padding: 8px 16px;
+    border-radius: 10px;
+  }
+  .btn:hover{
+      background-color: white;
+      color: black;
+      border-color: blue;
+  }
+
+  .submit {
+    background-color:red;
+    color: white;
+    font-size: larger;
+    padding: 5px 20px;
+    border-radius: 15px;
+  }
+  .submit:hover{
+    background-color: white;
+    color: black;
+    border-color: red;
+  }
