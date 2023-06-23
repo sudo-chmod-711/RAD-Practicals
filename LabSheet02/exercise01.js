@@ -21,7 +21,7 @@ function $1_3(){
     const price2 = 99
     let total = price1 + price2
     
-    window.alert("const price1 = " + price1 + "\nconst price2 = " + price2 + "\nlet total = price1 +  price2 + "+total);
+    window.alert("const price1 = " + price1 + "\nconst price2 = " + price2 + "\nlet total = price1 +  price2 = "+total);
 
 }
 
